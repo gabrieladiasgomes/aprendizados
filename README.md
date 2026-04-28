@@ -1,0 +1,8 @@
+1.css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    text-decoration-color: #00ff00;
+    text-align: center;
+    padding: 20px;
+}
